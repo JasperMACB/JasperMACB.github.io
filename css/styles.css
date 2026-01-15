@@ -92,12 +92,11 @@
 }
 
 body {
-    background-image: url('images/image.jpg'); 
+    background-image: url("../images/image.jpg"); 
     
-    /* Control how the image is displayed */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    background-size: cover;      /* Scales the image to cover the entire container */
-    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 hr {
