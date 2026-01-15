@@ -92,7 +92,7 @@
 }
 
 body {
-    background-image: url('assets\image.jpg'); 
+    background-image: url('images/image.jpg'); 
     
     /* Control how the image is displayed */
     background-repeat: no-repeat; /* Prevents the image from repeating */
